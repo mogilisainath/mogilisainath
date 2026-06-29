@@ -434,7 +434,7 @@ sainath@dev:~$ echo $MANTRA
 <br/>
 
 ```
-📧  your-email@gmail.com        🔗  linkedin.com/in/sainath-mogili07
+📧  sainath0sev1@gmail.com.com        🔗  linkedin.com/in/sainath-mogili07
 📸  instagram.com/sainath.xe    🐦  x.com/Sainath_xe
 💻  github.com/mogilisainath
 ```
