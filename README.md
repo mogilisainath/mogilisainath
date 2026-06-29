@@ -41,7 +41,7 @@
 <div align="center">
 
 ```
-★ · · · · ✦ · · · · · · · ★ · · · · · · · · ✦ · · · · · · ★ · · · · ✦ · · · ★
+Software Engineer | Backend Engineer | AI/ML Engineer • Building scalable backend systems and AI-powered applications that solve real-world problems.
 ```
 
 </div>
